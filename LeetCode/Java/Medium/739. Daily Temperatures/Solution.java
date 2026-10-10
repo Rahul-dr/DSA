@@ -4,7 +4,7 @@ class Solution {
 
         for(int i=0;i<temperatures.length;i++){
             int l=i+1;
-            while(l<temperatures.length && temperatures[i]>temperatures[l]){
+            while(l<temperatures.length && temperatures[i]>=temperatures[l]){
                 l++;
             }
 
