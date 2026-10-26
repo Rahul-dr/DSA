@@ -11,11 +11,12 @@ class Solution {
                 }else{
                     if(count==0){
                         count=maxx+nums[j];
-                        maxx=Math.max(maxx, count);
+                        
                     }else{
                         count+=nums[j];
-                        maxx=Math.max(maxx, count);
+                        
                     }
+                    maxx=Math.max(maxx, count);
                     
                 }
             }
