@@ -8,8 +8,8 @@
 Math, String, Brainteaser, Game Theory
 
 ### 🚀 Performance
-- **Runtime:** 14 ms
-- **Memory:** 47.5 MB
+- **Runtime:** 5 ms
+- **Memory:** 47.2 MB
 
 ---
 
